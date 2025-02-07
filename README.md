@@ -36,4 +36,4 @@ The dataset consists of several key tables:
 - **Peak Sales Hour**: 12 PM (Lunch Rush)
 
 ## SQL Queries
-- <a href="">MySQL Queries</a>
+- <a href="https://github.com/MithunMohan123/CrustoMania-Pizza-Analysis-MySQL/blob/main/queries.sql">MySQL Queries</a>
